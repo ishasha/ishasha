@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Isha Jalan.
+- 👀 I’m interested in sketching.
+- 🌱 I’m currently learning to code.
+- 💞️ I’m looking to collaborate on gsoc.
+- 📫 You can contact me through email- ishajalan0@gmail.com
